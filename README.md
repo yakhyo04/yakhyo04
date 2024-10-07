@@ -6,8 +6,6 @@
 <!-- Most used languages  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakhyo04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 <!-- ## Languages -->
 <h2>Technologies and Languages</h2>
 <div style="display: 'flex">
@@ -17,10 +15,6 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <a href="https://github.com/yakhyo04" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
-
-
-
 
 <!-- Links -->
 
