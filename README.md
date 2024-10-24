@@ -1,5 +1,9 @@
 # I'm a Frontend Developer.
 
+## 📈 GitHub Stats
+
+[![Phuc Mai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakhyo04&count_private=true&show_icons=true&theme=radical)](https://github.com/yakhyo04)
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,13 +21,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-[![Phuc Mai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakhyo04&count_private=true&show_icons=true&theme=radical)](https://github.com/yakhyo04)
-
 ## 📊 My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-mai&layout=compact&theme=radical)](https://github.com/phuc-mai)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yakhyo04&layout=compact&theme=radical)](https://github.com/yakhyo04)
 
 <!-- Links -->
 
