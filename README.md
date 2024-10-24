@@ -1,21 +1,5 @@
 # I'm a Frontend Developer.
 
-<!-- yakhyo's github stats -->
-[![Yahyo's github stats ](https://github-readme-stats.vercel.app/api?username=yakhyo04&show_icons=true&theme=dark)](https://github.com/yakhyo04/)
- 
-<!-- Most used languages  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakhyo04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ## Languages -->
-<h2>Technologies and Languages</h2>
-<div style="display: 'flex">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<a href="https://github.com/yakhyo04" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,6 +20,10 @@
 ## 📈 GitHub Stats
 
 [![Phuc Mai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakhyo04&count_private=true&show_icons=true&theme=radical)](https://github.com/yakhyo04)
+
+## 📊 My Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-mai&layout=compact&theme=radical)](https://github.com/phuc-mai)
 
 <!-- Links -->
 
